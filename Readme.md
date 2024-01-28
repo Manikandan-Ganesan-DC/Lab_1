@@ -1,4 +1,4 @@
-# IN Lab 1 Branch
+# Lab 1 Branch
 
 ## Description
 
