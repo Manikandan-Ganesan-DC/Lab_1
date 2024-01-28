@@ -1,3 +1,5 @@
+# Lab - 1
+
 ## Description
 
 This is a simple calculator program which can perform Addition, Subtraction, Multiplication and Division between two numbers.
